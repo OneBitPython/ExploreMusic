@@ -7,8 +7,10 @@ This app was made using pyqt5
 
 ## How to set the project up
 
-To set the project up, all you need to do is download the repository, extract it and then run
-```pip install -r requirements.txt```
-finally say 
+To set the project up, all you need to do is download the repository and extract it. This will download the repository, if you have git installed, you can just say 
+```git clone https://github.com/OneBitPython/ExploreMusic.git``` after following either one of these installation steps, you have to run -
+
+```pip install -r requirements.txt``` to install the modules and then finally say 
 ```python main.py```
 The app will then open up in a seperate window.
+
